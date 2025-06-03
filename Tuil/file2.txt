@@ -1,1 +1,2 @@
 ini test commit ke 2, menambahkan file2.txt
+ini test coomit ke 3, menambahkan komentar di file2
